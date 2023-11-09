@@ -97,7 +97,7 @@
     .row.justify-content-center 
       .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 2.
+          h5 Tabla 5.
           span #[i Umbrales olfativos y de seguridad de las principales sustancias causantes de olores ofensivos]
         figure(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema2/6.svg', alt='En la tabla 5 se muestra un ejemplo de tabla FIDO para la caracterización de olores. Se contemplan variables como la duración, frecuencia y la intensidad del olor.')
