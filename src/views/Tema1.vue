@@ -297,10 +297,10 @@
         .col-lg-4.col-md-8.col-10
           figure
             img(src='@/assets/curso/temas/tema1/20.svg', alt='Imagen decorativa')
-      .row
+      .row.mt-5
         p(data-aos="fade-left") A continuación, se describen algunos de los efectos que ciertos tipos de sustancias presentes en los olores desagradables pueden tener en la salud humana:
 
-      .row.justify-content-center.mt-5 
+      .row.justify-content-center.mt-5
         .col-lg-10.col-12
           .titulo-sexto.color-acento-contenido
             h5 Tabla 3.
@@ -401,7 +401,7 @@
         .col-lg-10
           .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/img.svg' alt='AvatarTop')
+              img(src='@/assets/curso/temas/img.svg' alt='Imagen decorativa')
             .tarjeta(style="background-color:#FFEBDF")
               .p-4
               p.p-2 Estos resultados enfatizan la importancia de abordar los olores ofensivos como un problema de salud pública, ya que su impacto no se limita a la percepción desagradable, sino que se traduce en efectos adversos en la salud de las personas expuestas. La regulación, el control de emisiones y la implementación de medidas de prevención son esenciales para proteger la salud de las comunidades expuestas a olores ofensivos, así como para garantizar la seguridad de los trabajadores que enfrentan exposiciones constantes en su entorno laboral.
