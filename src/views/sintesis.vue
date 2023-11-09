@@ -3,8 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 A continuación, se describe el tema principal del componente formativo Monitoreo de olores ofensivos y ruido, lo cual desempeña un papel crucial en la gestión ambiental urbana. El seguimiento constante de olores y niveles de ruido permite evaluar la calidad de vida de los residentes y tomar medidas para mitigar impactos negativos. Mediante sensores y tecnologías avanzadas, se recopilan datos en tiempo real, identificando fuentes de malos olores y ruidos excesivos. Esto facilita la implementación de regulaciones efectivas y la planificación urbana adecuada. Al integrar el monitoreo de olores y ruido en estrategias urbanas, se crea un entorno más saludable y agradable, mejorando el bienestar de la comunidad en general.
 
     .row.justify-content-center
       .col-lg-10.mb-5

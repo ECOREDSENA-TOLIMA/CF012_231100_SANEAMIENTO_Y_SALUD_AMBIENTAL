@@ -5,7 +5,22 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Titulo de primer nivel
+      h1 Ruido
+    separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_1 3.1 Concepto y tipos
+      separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_2 3.2 Causas
+      separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_3 3.3 Niveles permitidos
+      separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_4 3.4 Fuentes
+      separador 
+    .titulo-segundo.color-acento-contenido
+      h2#t_3_5 3.5 Efectos ambientales y para la salud humana
 
 </template>
 
