@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Conocimientos sobre procesos de seguimiento de proyectos productivos
-        p.mb-4 #[b Objetivo]: Afianzar los conocimientos del aprendiz en lo relacionado con los procesos de seguimiento a los proyectos productivos.
+        p.mb-4 #[b Objetivo]: afianzar los conocimientos del aprendiz en lo relacionado con los procesos de seguimiento a los proyectos productivos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
