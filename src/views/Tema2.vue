@@ -197,9 +197,9 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema2/13.jpg', alt='Imagen decorativa')
-    .row
-      .tarjeta.p-4(style="background-color: #DEFFF8")
-        p(data-aos="fade-left") Estos equipos son fundamentales para la medición precisa y la identificación de compuestos odoríficos, lo que permite evaluar y controlar los olores ofensivos de manera efectiva. Cada uno tiene sus aplicaciones específicas, dependiendo de los objetivos de la medición y las sustancias químicas de interés.
+    //- .row
+    //-   .tarjeta.p-4(style="background-color: #DEFFF8")
+    //-     p(data-aos="fade-left") Estos equipos son fundamentales para la medición precisa y la identificación de compuestos odoríficos, lo que permite evaluar y controlar los olores ofensivos de manera efectiva. Cada uno tiene sus aplicaciones específicas, dependiendo de los objetivos de la medición y las sustancias químicas de interés.
           
 
 </template>

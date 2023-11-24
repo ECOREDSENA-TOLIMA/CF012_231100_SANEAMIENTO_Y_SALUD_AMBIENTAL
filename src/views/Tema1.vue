@@ -66,7 +66,7 @@
       .tarjeta.tarjeta.p-4.mb-5(style="background-color: #EEFFDE")
         SlyderA(tipo="b")
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Frecuencia
               p En el contexto de olores ofensivos, se refiere a cuántas veces se experimenta un olor desagradable en un período específico, como un día, una semana, un mes o un año. Por ejemplo, un daño en una tubería sanitaria puede generar olores desagradables durante el tiempo de la reparación, lo que constituye una alta frecuencia de exposición temporal. Por otro lado, una comunidad que reside cerca de un relleno sanitario está expuesta a olores ofensivos casi permanentemente, lo que indica una frecuencia elevada y constante. La frecuencia es un factor crucial para evaluar la percepción y el impacto de los olores ofensivos en la calidad de vida de las personas y para determinar la necesidad de tomar medidas para abordar este problema.
           
@@ -74,7 +74,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/3.jpg', alt='Imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Intensidad
               p En el contexto de los olores ofensivos, está vinculada a la fuerza de la sensación percibida, es decir, a la capacidad de un olor de provocar una respuesta en quien lo huele. Por lo general, los olores con baja intensidad tienden a ser menos ofensivos que aquellos con una intensidad mayor. No obstante, la percepción de ofensividad está influenciada por la naturaleza de las sustancias que componen el olor y su concentración. En otras palabras, la intensidad del olor puede desempeñar un papel clave en la forma en que es percibido, pero también es importante considerar qué compuestos específicos están presentes y en qué cantidad para evaluar su impacto en la calidad del aire y en la salud de las personas.
           
@@ -82,7 +82,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/4.jpg', alt='Imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Duración
               p En el contexto de olores ofensivos, guarda relación con la cantidad de tiempo que una persona está expuesta de manera continua a un determinado olor. Si bien la duración está parcialmente relacionada con la frecuencia, se enfoca en cuánto tiempo una persona experimenta un olor sin interrupción. Es importante destacar que la duración de la exposición a un olor ofensivo puede tener un impacto significativo en la percepción de molestia y en los posibles efectos negativos en la salud. A menudo, una exposición prolongada a un olor desagradable puede causar mayores efectos adversos en comparación con exposiciones intermitentes a lo largo del tiempo. La influencia de la duración en los efectos negativos depende de la naturaleza de la sustancia contaminante y su concentración, así como de la sensibilidad individual a dicho olor.
           
@@ -90,7 +90,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/5.jpg', alt='Imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Ofensividad
               p Se refiere a su carácter en términos de cuán aceptable o desagradable es para el individuo que lo percibe. Esta característica está relacionada con el grado de gusto o disgusto que puede experimentar la persona expuesta al olor. Algunos olores tienen un margen de tolerancia amplio y son aceptables para la mayoría de las personas en la mayoría de las circunstancias, mientras que otros son considerados inaceptables o intolerables en cualquier situación. La percepción de la ofensividad de un olor es subjetiva y puede variar de una persona a otra. Factores como la experiencia personal, la cultura y la sensibilidad individual pueden influir en la manera en que se percibe un olor en términos de su aceptabilidad.
           
@@ -98,7 +98,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/6.jpg', alt='Imagen decorativa')
           .row
-            .col-md-6.mb-4.mb-md-0
+            .col-md-6.mb-4.mb-md-0.p-4
               h4 Localización
               p El sitio de una fuente generadora de olores ofensivos desempeña un papel crucial en la intensidad de los olores percibidos. La dirección del viento es un factor determinante, ya que una fuente ubicada en una zona desde la que sopla el viento hacia un centro poblado tendrá un impacto más significativo en la población al transportar los olores hacia áreas habitadas. Además, las fuentes ubicadas en zonas de transición cercanas a centros poblados también pueden generar problemas, ya que su proximidad a áreas residenciales y comerciales aumenta la exposición de la población a olores desagradables. La localización estratégica de las fuentes generadoras de olores es esencial para mitigar los impactos negativos en la calidad del aire y en la calidad de vida de las comunidades.
           

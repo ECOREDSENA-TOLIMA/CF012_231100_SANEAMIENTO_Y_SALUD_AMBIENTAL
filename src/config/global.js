@@ -165,7 +165,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar pdf',
-        download: 'downloads/material.zip',
+        download: 'downloads/CFA_12_231100.zip',
       },
       {
         icono: 'fas fa-download',
@@ -181,17 +181,41 @@ export default {
   },
   complementario: [
     {
+      tema: '1. Olores ofensivos',
+      referencia:
+        'Ministerio de Salud. (2012). Lineamiento para la vigilancia sanitaria y ambiental del impacto de los olores ofensivos en la salud y calidad de vida de las comunidades expuestas en áreas urbanas.',
+      tipo: 'Documento PDF.',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/impacto-olores-ofensivos-salud.pdf',
+    },
+    {
+      tema: '2. Monitoreo olores',
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2014). Resolución 2087 de 2014. Por la cual se adopta el protocolo para el monitoreo, control y vigilancia de olores ofensivos.',
+      tipo: 'Normativa. Documento PDF.',
+      link:
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/10/Resolucion-2087-de-2014.pdf',
+    },
+    {
       tema: '3. Ruido',
       referencia:
-        'Gobernación de Antioquia. (s. f.). El sonido y sus características. ',
+        'Instituto Nacional de la Sordera y Otros Trastornos de la Comunicación. (2020). ¿Cuándo el sonido es demasiado alto?',
       tipo: 'Página web.',
       link:
-        'https://www.antioquiatic.edu.co/noticias-general/item/211-el-sonido-y-sus-caracteristicas#:~:text=El%20sonido%20es%20producido%20por%20un%20movimiento%20vibratorio.&text=El%20movimiento%20se%20propaga%20hasta,%2C%20s%C3%B3lido%2C%20l%C3%ADquido%20o%20gaseoso.',
+        'https://www.noisyplanet.nidcd.nih.gov/espanol/publications/cuando-el-sonido-es-demasiado-alto',
+    },
+    {
+      tema: '3. Ruido',
+      referencia:
+        'Gobernación de Antioquia. (s. f.). El sonido y sus características.',
+      tipo: 'Página web.',
+      link:
+        'https://www.antioquiatic.edu.co/noticias-general/item/211-el-sonido-y-sus-caracteristicas#:~:text=El%20sonido%20es%20producido%20por%20un%20movimiento%20vibratorio.&text=El%20movimiento%20se%20propaga%20hasta,%2C%20s%C3%B3lido%2C%20l%C3%ADquido%20o%20gaseoso',
     },
     {
       tema: '4. Monitoreo de ruido',
       referencia:
-        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Resolución 0627 de 2006. Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental. ',
+        'Ministerio de Ambiente, Vivienda y Desarrollo Territorial. (2006). Resolución 0627 de 2006. Por la cual se establece la norma nacional de emisión de ruido y ruido ambiental.',
       tipo: 'Normativa. Documento PDF.',
       link:
         'https://corponarino.gov.co/expedientes/juridica/2006resolucion627.pdf',
@@ -264,6 +288,15 @@ export default {
         'Ministerio de Salud. (2012). Lineamiento para la vigilancia sanitaria y ambiental del impacto de los olores ofensivos en la salud y calidad de vida de las comunidades expuestas en áreas urbanas.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/SA/impacto-olores-ofensivos-salud.pdf ',
+    },
+    {
+      referencia: 'Secretaria de Ambiente de Bogotá. (s.f.). Ruido.',
+      link: 'https://www.ambientebogota.gov.co/ruido',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2017). Niveles de contaminación acústica y sus efectos.',
+      link: 'https://docs.bvsalud.org/biblioref/2019/08/995468/05.pdf',
     },
   ],
   creditos: [
